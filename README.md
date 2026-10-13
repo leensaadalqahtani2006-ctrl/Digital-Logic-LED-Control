@@ -24,3 +24,10 @@ The circuit uses two switch inputs to control three LEDs:
 - Logic Gate Implementation
 - Circuit Testing
 
+## Circuit Demonstration Videos
+
+The following videos demonstrate the circuit operation under different input conditions:
+
+- 🔵 [Blue LED Demonstration](Blue_LED_Demonstration.MP4)
+- 🔴 [Red LED Demonstration](Red_LED_Demonstration.MP4)
+- 🟢 [Green LED Demonstration](Green_LED_Demonstration.MP4)
